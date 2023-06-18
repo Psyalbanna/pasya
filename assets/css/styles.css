@@ -208,6 +208,7 @@ img {
 .nav__toggle{
   font-size: 1.1rem;
   cursor: pointer;
+  transform: translateX(-1rem);
 }
 
 .nav__toggle:hover{
