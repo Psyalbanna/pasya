@@ -189,10 +189,6 @@ img {
     
 }
 
-.nav__btns{
-  transform: translateX(-1rem);
-}
-
 .nav__logo,
 .nav__toggle{
   color: var(--title-color);
